@@ -1,9 +1,9 @@
 {
-  "name": "welcomeBot",
+  "name": "rommelSlackBot",
   "version": "0.0.1",
-  "description": "Simple Testing Node server",
+  "description": "Simply Testing Node server",
   "main": "app.js",
-  "author": "Nick Techustler",
+  "author": "Rommel Rico",
   "license": "MIT",
   "dependencies": {
     "express": "^4.x.x",
