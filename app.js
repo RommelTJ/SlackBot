@@ -17,7 +17,7 @@ app.listen(port, function () {
 app.post('/hey', function (req, res, next) {
   var userName = req.body.user_name;
   var botPayload = {
-    text : 'Hello ' + userName + ', welcome to Techustler Slack channel! I\'ll be your guide.'
+    text : 'Hello ' + userName + ', welcome to Rommel\'s Slack channel! I\'ll be your guide.'
   };
   // Loop otherwise..
   if (userName !== 'slackbot') {
